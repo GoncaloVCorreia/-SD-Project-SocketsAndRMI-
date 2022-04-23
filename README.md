@@ -1,6 +1,12 @@
 # -SD-Project
 
 Distributed Systems
+## Objective
+File Tranfer (upload and download)
+
+One Server
+One Back Up Server
+Multiple Clients
 
 ## Run
 Resume
