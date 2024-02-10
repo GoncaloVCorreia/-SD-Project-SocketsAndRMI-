@@ -1,6 +1,6 @@
 # -SD-Project
 
-Distributed Systems
+The ucDrive is a shared file storage platform for students and teachers of the University of Coimbra. This project consists of creating this platform so that teachers and students can store files in a remote repository. 
 ## Objective
 File Tranfer (upload and download)
 
